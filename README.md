@@ -1,4 +1,4 @@
-# COMP229-F2019-MidTerm Test
+# COMP229-F2022-MidTerm Test
 
 Aniket Mehta - 301208721
 
